@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugo+x pwd 
+sudo chmod -R +111 */
