@@ -11,7 +11,8 @@
 10-no_more_js deletes all regular files with .js  extension <br />
 11-directories counts the number of directories in cd <br />
 12-newest_files list the 10 newest files <br />
-13-unique a script that takes a list of words as input and prints only words that appear exactly once <br />
-14-findthatword displays lines containing the pattern “root” from the file /etc/passwd <br />
-15-countthatword Displays the number of lines that contain the pattern “bin” in the file /etc/passwd <br />
-16-whatsnext Displays lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
+13-unique a script that takes a list of words as input and prints only words that appear exactly once <br/>
+14-findthatword displays lines containing the pattern “root” from the file /etc/passwd <br/>
+15-countthatword Displays the number of lines that contain the pattern “bin” in the file /etc/passwd <br/>
+16-whatsnext Displays lines containing the pattern “root” and 3 lines after them in the file /etc/passwd <br/>
+17-hidethiword Displays all the lines in the file /etc/passwd that do not contain the pattern “bin”
