@@ -5,3 +5,4 @@
 4-lastlines displays the last 10 lines of /etc/passwd <br />
 5-firstlines displays the first 10 lines of /etc/passwd <br />
 6-third_line dislays the thirdline in a file <br />
+7-line creates a file by use of  sinle quotes for Bash ignore <br />
