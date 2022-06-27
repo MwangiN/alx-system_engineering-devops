@@ -7,3 +7,4 @@
 6-third_line dislays the thirdline in a file <br />
 7-line creates a file by use of  sinle quotes for Bash ignore <br />
 8-cwd_state overwites content of a file with ls -la output <br />
+9-duplicate_last_line duplicates the last line of a file iacta
