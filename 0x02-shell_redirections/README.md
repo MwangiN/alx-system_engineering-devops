@@ -10,3 +10,4 @@
 9-duplicate_last_line duplicates the last line of a file iacta <br />
 10-no_more_js deletes all regular files with .js  extension <br />
 11-directories counts the number of directories in cd <br />
+12-newest_files list the 10 newest files
