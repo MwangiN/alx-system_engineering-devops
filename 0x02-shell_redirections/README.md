@@ -8,4 +8,5 @@
 7-line creates a file by use of  sinle quotes for Bash ignore <br />
 8-cwd_state overwites content of a file with ls -la output <br />
 9-duplicate_last_line duplicates the last line of a file iacta <br />
-10-no_more_js deletes all regular files with .js  extension
+10-no_more_js deletes all regular files with .js  extension <br />
+11-directories counts the number of directories in cd <br />
