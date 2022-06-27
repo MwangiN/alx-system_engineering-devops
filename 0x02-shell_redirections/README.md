@@ -12,3 +12,4 @@
 11-directories counts the number of directories in cd <br />
 12-newest_files list the 10 newest files <br />
 13-unique a script that takes a list of words as input and prints only words that appear exactly once <br />
+14-findthatword displays lines containing the pattern “root” from the file /etc/passwd
