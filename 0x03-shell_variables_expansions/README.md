@@ -3,3 +3,6 @@
 2-path Adds /action to the PATH <br/>
 3-paths Creates a script that counts the number of directories in the PATH<br/>
 4-global_variables lists environment variables <br/>
+5-local_variables lists all local variables and environment variables, and functions.<br/>
+6-create_local_variable creates a new local variable.<br/>
+7-create_global_variable creates a new global variable <br/>
